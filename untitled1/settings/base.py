@@ -26,7 +26,7 @@ SECRET_KEY = 'l3s+vc$g(o9avff6$)j0kgm02y&$21y=^mez(x3%pm*%9ux6if'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://logbook-semi.herokuapp.com/']
 
 
 # Application definition
