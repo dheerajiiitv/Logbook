@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY','l3s+vc$g(o9avff6$)j0kgm02y&$21y=^mez(x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://logbook-semi.herokuapp.com/']
+ALLOWED_HOSTS = ['https://logbook-semi.herokuapp.com/','*']
 
 
 # Application definition
